@@ -3,17 +3,9 @@ Project implementation
 
 A. Build a personal Portfolio
 
-During my internship, I focused on developing three key web projects to strengthen my front-end development skills. I created a fully responsive personal portfolio website to professionally showcase my skills and projects, incorporating sections like About, Projects, and Contact.
+As part of my internship experience, I designed and developed a personal portfolio website aimed at showcasing my technical skills, completed projects, and contact information in a visually engaging and professional format.
 
-B. To-do list or note taking app with local storage
+The site includes distinct sections such as About, Projects, and Contact, each carefully structured for clarity and accessibility. I implemented a responsive layout using modern HTML5, CSS3, and JavaScript to ensure the site delivers a consistent user experience across all devices and screen sizes.
 
-I also built a to-do list app with localStorage integration, ensuring task data persisted across sessions. 
-
-
-C. A product listing page with filtering and sorting option
-
-
-Additionally, I developed a dynamic product listing page featuring category-based filtering and sorting by price and rating. These projects improved my proficiency in HTML, CSS, JavaScript, and responsive design while deepening my understanding of user experience and data handling in web applications.
-
-
+This project not only helped me refine my front-end development skills but also gave me practical experience in presenting my work to potential employers or clients.
 
